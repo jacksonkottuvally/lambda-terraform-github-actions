@@ -5,7 +5,7 @@
 #
 
 # AWS variables
-AWS_REGION=eu-west-3
+AWS_REGION=ap-south-1
 # project name
 PROJECT_NAME=lambda-terraform-github-actions
 
